@@ -5,7 +5,7 @@
 ![image](https://github.com/ynessao/GTAH3X/assets/171420635/588cbe4f-d4f5-471a-8b7c-81cfff73f82a)
 
 ## Plus d'information:
-- Conçu pour la version 1.68.
+- Conçu pour la version 1.69.
 - N'utilise aucun natif.
 - Ne jouez pas avec la limite d'achat de jetons.
 ## Bugs : Aucun connu.
